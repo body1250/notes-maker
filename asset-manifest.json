@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/notes-maker/static/css/main.447d9e7e.css",
+    "main.js": "/notes-maker/static/js/main.39684d03.js",
+    "static/media/hsoub-logo.png": "/notes-maker/static/media/hsoub-logo.d7750077155f37adab72.png",
+    "index.html": "/notes-maker/index.html",
+    "main.447d9e7e.css.map": "/notes-maker/static/css/main.447d9e7e.css.map",
+    "main.39684d03.js.map": "/notes-maker/static/js/main.39684d03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447d9e7e.css",
+    "static/js/main.39684d03.js"
+  ]
+}
