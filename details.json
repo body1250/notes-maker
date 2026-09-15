@@ -1,0 +1,7 @@
+ {
+   "description": "An app for make and save notes in the local storage of you device, with a trash to save the deleted notes.",
+   "alt": "note-maker app",
+  "liveLink": "https://body1250.github.io/notes-maker/",
+   "skills": ["JavaScript","React.js"],
+   "isImportant": true
+ }
